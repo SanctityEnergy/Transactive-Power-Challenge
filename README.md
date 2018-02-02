@@ -23,7 +23,7 @@ The rapid prototype should demonstrate how the energy system enables individuals
 
 # Team Participation
 
-To register your team project for the Sovereign Legal Identity Challenge, submit a [GitHub Issue](https://github.com/mitmedialab/SLIC/issues/new) with the following information: 
+To register your team project for the Sovereign Legal Identity Challenge, submit a [GitHub Issue](https://github.com/SanctityEnergy/TransactiveEnergyChallenge/issues/new) with the following information: 
 * The name of your project and your team name;
 * The names of your team members including the GitHub username of at least one member;
 * The URL of the GitHub repository where your project will be developed and submitted;
@@ -44,9 +44,6 @@ More information on challenge criteria and additional prizes and awards will be 
 
 # Live Hangout
 
-We'll provide an overview of the Transactive Energy Challenge and go over questions about how to submit a team project during this live Google Hangout on Tuesday, February 13th at 8:00 PM Eastern / 5:00 PM Pacific: 
+We'll provide an overview of the Transactive Energy Challenge and go over questions about how to submit a team project during this live Google Hangout on Friday, February 15th at 8:00 PM Eastern / 5:00 PM Pacific: 
 
 Direct Video Link: [TBD]
-
-Video Embed: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgQRrJNpdwU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
