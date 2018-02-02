@@ -1,25 +1,25 @@
 # Transactive Energy Challenge
 CL+B Fest Challenge
 
-**Teams participating in the Legal Hackers 2018 [Computational Law and Blockchain Festival](https://legalhackers.org/clbfest2018) are encouraged to tackle the [Transactive Energy Challenge](https://mitmedialab.github.io/SLIC) with a high level design concept and rapid prototype project:**
+**Teams participating in the Legal Hackers 2018 [Computational Law and Blockchain Festival](https://legalhackers.org/clbfest2018) are encouraged to tackle the [Transactive Energy Challenge](https://sanctityenergy.github.io/TransactiveEnergyChallenge/) with a high level design concept and rapid prototype project:**
 
 ## Conceptual Design
 
-Develop a conceptual design and rapid prototype demonstrating how individuals can use blockchain technology to generate, use and control their own digital identities.  
+Develop a conceptual design and rapid prototype demonstrating how individuals/companies can use blockchain technology for energy distribution and trading on a transactive grid.  
 
-The conceptual design should include an outline or sketch of a realistic approach to deployment and stable operation of the identity system, including a:
+The conceptual design should include an outline or sketch of a realistic approach to deployment and stable operation of the energy system, including a:
 * Business model;
 * Legal framework; and
 * Technology architecture
 
 ## Rapid Prototype 
 
-The rapid prototype should demonstrate how the identity system enables an individual to execute digital signatures or provide other authorizations necessary for conducting one or more legally valid and enforceable transactions, such as: 
+The rapid prototype should demonstrate how the energy system enables individuals/companies to facilitate legally valid trading and distribution of electricity across regions, such as: 
 
-* Signing and enforcing contracts and other legal instruments;
-* Registering and holding trademarks or copyrights;
-* Sending and receiving binding legal notices; and
-* Standing as a candidate or voting in local elections
+* Transfering energy between parties within a micro-grid;
+* Sending and receiving electricity across regional operators;
+* Intregrating renewable energy resources to a decentralized grid; and
+* Securitize transactions among users and owners on a grid
 
 # Team Participation
 
@@ -44,9 +44,9 @@ More information on challenge criteria and additional prizes and awards will be 
 
 # Live Hangout
 
-We'll provide an overview of the Sovereign Legal Identity Challenge and go over questions about how to submit a team project during this live Google Hangout on Tuesday, February 13th at 8:00 PM Eastern / 5:00 PM Pacific: 
+We'll provide an overview of the Transactive Energy Challenge and go over questions about how to submit a team project during this live Google Hangout on Tuesday, February 13th at 8:00 PM Eastern / 5:00 PM Pacific: 
 
-Direct Video Link: [http://youtu.be/SgQRrJNpdwU](http://youtu.be/SgQRrJNpdwU)
+Direct Video Link: [TBD]
 
 Video Embed: 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SgQRrJNpdwU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
