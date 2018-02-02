@@ -1,7 +1,7 @@
-# Transactive Energy Challenge
+# Transactive Power Challenge
 CL+B Fest Challenge
 
-**Teams participating in the Legal Hackers 2018 [Computational Law and Blockchain Festival](https://legalhackers.org/clbfest2018) are encouraged to tackle the [Transactive Energy Challenge](https://sanctityenergy.github.io/TransactiveEnergyChallenge/) with a high level design concept and rapid prototype project:**
+**Teams participating in the Legal Hackers 2018 [Computational Law and Blockchain Festival](https://legalhackers.org/clbfest2018) are encouraged to tackle the [Transactive Power Challenge](https://sanctityenergy.github.io/TransactivePowerChallenge/) with a high level design concept and rapid prototype project:**
 
 ## Conceptual Design
 
@@ -23,7 +23,7 @@ The rapid prototype should demonstrate how the energy system enables individuals
 
 # Team Participation
 
-To register your team project for the Transactive Energy Challenge, submit a [GitHub Issue](https://github.com/SanctityEnergy/TransactiveEnergyChallenge/issues/new) with the following information: 
+To register your team project for the Transactive Power Challenge, submit a [GitHub Issue](https://github.com/SanctityEnergy/TransactivePowerChallenge/issues/new) with the following information: 
 * The name of your project and your team name;
 * The names of your team members including the GitHub username of at least one member;
 * The URL of the GitHub repository where your project will be developed and submitted;
