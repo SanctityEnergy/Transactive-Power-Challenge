@@ -42,8 +42,7 @@ Final team projects will be reviewed and rated by a panel of invited judges.  Ev
 
 More information on challenge criteria and additional prizes and awards will be added to this challenge page as they are finalized.
 
-# Live Hangout
+# Video Introduction
 
-We'll provide an overview of the Transactive Energy Challenge and go over questions about how to submit a team project during this live Google Hangout on Friday, February 15th at 8:00 PM Eastern / 5:00 PM Pacific: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vH_y_-adc2s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Direct Video Link: [TBD]
