@@ -30,6 +30,20 @@ To register your team project for the Transactive Power Challenge, submit a [Git
 * The URL of the YouTube Channel where your team will submit video; and
 * The name and URL of the Festival Node your team is participating in
 
+# Judges
+
+Our incredible line-up of judges include:
+
+## Tony Rose - CEO of Airwaze.io
+https://www.linkedin.com/in/tony-rose/
+
+## Garrett Macdonald - Blockchain Fellow @ Energy Web Foundation
+https://www.linkedin.com/in/garrett-macdonald-0612344a/
+
+## Scott Burke - CEO of Blockcrushr Labs
+https://www.blockcrushr.com/team/scott-burke
+
+
 # Criteria and Judging
 
 Teams are expected to:
