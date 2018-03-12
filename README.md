@@ -5,7 +5,7 @@ CL+B Fest Challenge
 
 ## The Purpose
 
-Our energy systems are in a precarious state, whilst modern society grows increasingly dependent upon electricity. With the emergence of renewable energy resources, smart-grids and microgrids we are at an inflection point in our energy history. The entire industry is poised for massive change. Let's put our heads together to think about how we can use blockcahin technology to streamline issues that currently exist in the energy space. 
+Modern society is growing increasingly dependent upon electricity, while our energy systems remain in a precarious state. With the emergence of renewable energy resources, smart-grids and microgrids we are at an inflection point in our energy history. The entire industry is poised for massive change. Let's put our heads together to think about how we can use blockcahin technology to streamline issues that currently exist in the energy space. 
 
 The goal of this challenge is for teams to develop a conceptual design and rapid prototype that demonstrates how individuals/companies can use blockchain technology to facilitate 1) renewable energy integration and distribution or 2) transactions on a smart grid.  
 
