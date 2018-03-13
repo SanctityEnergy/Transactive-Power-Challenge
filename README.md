@@ -48,6 +48,10 @@ To register your team project for the Transactive Power Challenge, submit a [Git
 * The URL of the YouTube Channel where your team will submit video; and
 * The name and URL of the Festival Node your team is participating in
 
+# Resources
+
+Checked on our [HackMD.io] (https://hackmd.io/xrMAw6KVSyuwrw-YOvYufQ) for an ever growing list of resources!
+
 # Judges
 
 Our incredible line-up of judges include:
