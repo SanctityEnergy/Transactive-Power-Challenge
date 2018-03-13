@@ -7,22 +7,30 @@ CL+B Fest Challenge
 
 Modern society is growing increasingly dependent upon electricity, while our energy systems remain in a precarious state. With the emergence of renewable energy resources, smart-grids and microgrids we are at an inflection point in our energy history. The entire industry is poised for massive change. Let's put our heads together to think about how we can use blockcahin technology to streamline issues that currently exist in the energy space. 
 
-The goal of this challenge is for teams to develop a conceptual design and rapid prototype that demonstrates how individuals/companies can use blockchain technology to facilitate 1) renewable energy integration and distribution or 2) transactions on a smart grid.  
+The goal of this challenge is for teams to develop a conceptual design and rapid prototype that demonstrates how individuals/companies can use blockchain technology to facilitate 1) renewable energy integration and distribution or 2) data transactions on a smart grid.  
 
 ## Conceptual Design
 The conceptual design should include an outline or sketch of a realistic approach to deployment and stable operation of the energy system, including a:
+
 * Business model;
-* Legal framework; and
+* Legal framework (privacy, transaction); and
 * Technology architecture
+
+For example, teams submitting a blockchain-based energy management system (potentially based off of the ideas of distributed energy generation, transactive grids, etc.) should be able to champion the design, implementation and deployment, and demonstrate how the system can be hack-proof and feasible.
 
 ## Rapid Prototype 
 
-The rapid prototype should demonstrate how the energy system enables individuals/companies to facilitate legally valid trading and distribution of electricity across regions, such as: 
+The rapid prototype should demonstrate the transaction process in the energy system that enables individuals/companies to either 1) facilitate legally valid integration and distribution in security regions, such as: 
 
 * Transfering energy between parties within a micro-grid;
-* Sending and receiving electricity across regional operators;
-* Intregrating renewable energy resources to a decentralized grid; and
-* Securitize transactions among users and owners on a grid
+* Sending and receiving electricity across other operators;and 
+* Intregrating renewable energy resources to a decentralized grid;
+
+or, 2) securing data on a smart grid, such as:
+
+* Securitizing transactions among users and owners on a grid;
+* Providing hardware identity to IoT Devices on a smartgrid (for smart contract execution); and
+* Protecting data protection for smart meters, renewable energy generation, etc.;
 
 # How To Sign Up
 
@@ -61,9 +69,8 @@ Final team projects will be reviewed and rated by a panel of invited judges.  Ev
 
 The team submitting the top ranked, highest rated project will receive the following:
 * Opportunity to work with judges and present the project in-person at MIT to interested students, faculty and researchers
-* (more prizes to be added)
+* $500 Cash Prize
 
-More information on challenge criteria and additional prizes and awards will be added to this challenge page as they are finalized.
 
 # Video Introduction
 
