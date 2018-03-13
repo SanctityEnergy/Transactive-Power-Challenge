@@ -31,7 +31,7 @@ The rapid prototype should demonstrate the transaction process in the energy sys
 1) facilitate legally valid integration and distribution in security regions, such as: 
 
 * Transfering energy between parties within a micro-grid;
-* Sending and receiving electricity across other operators;and 
+* Sending and receiving electricity across other operators; and 
 * Intregrating renewable energy resources to a decentralized grid;
 
 or, 2) securing data on a smart grid, such as:
@@ -51,7 +51,7 @@ To register your team project for the Transactive Power Challenge, submit a [Git
 
 # Resources
 
-Checke on our [HackMD.io](https://hackmd.io/xrMAw6KVSyuwrw-YOvYufQ) for an ever growing list of resources!
+Check on our [HackMD.io](https://hackmd.io/xrMAw6KVSyuwrw-YOvYufQ) for an ever growing list of resources!
 
 # Judges
 
