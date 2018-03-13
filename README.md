@@ -1,9 +1,7 @@
 # Transactive Power Challenge
 CL+B Fest Challenge
 
-The Transactive Power Challenge is presented by Sanctity Energy, and there will be a *$500 cash prize* and opportunity to work with judges and present the project in-person at MIT to interested students, faculty and researchers for the winning team.
-
-**Teams participating in the Legal Hackers 2018 [Computational Law and Blockchain Festival](https://legalhackers.org/clbfest2018) are encouraged to tackle the [Transactive Power Challenge](https://sanctityenergy.github.io/TransactivePowerChallenge/) with a high level design concept and rapid prototype project:**
+The Transactive Power Challenge is presented by Sanctity Energy, and there will be a **$500 cash prize** and opportunity to work with judges and **present the project in-person at MIT** to interested students, faculty and researchers for the winning team.
 
 ## The Purpose
 
@@ -13,6 +11,8 @@ The goal of this challenge is for teams to develop a conceptual design and rapid
 
 1) renewable energy integration and distribution, or
 2) data transactions on a smart grid.  
+
+**Teams participating in the Legal Hackers 2018 [Computational Law and Blockchain Festival](https://legalhackers.org/clbfest2018) are encouraged to tackle the [Transactive Power Challenge](https://sanctityenergy.github.io/TransactivePowerChallenge/) with a high level design concept and rapid prototype project:**
 
 ## Conceptual Design
 The conceptual design should include an outline or sketch of a realistic approach to deployment and stable operation of the energy system, including a:
