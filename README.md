@@ -1,6 +1,8 @@
 # Transactive Power Challenge
 CL+B Fest Challenge
 
+The Transactive Power Challenge is presented by Sanctity Energy, and there will be a *$500 cash prize* and opportunity to work with judges and present the project in-person at MIT to interested students, faculty and researchers for the winning team.
+
 **Teams participating in the Legal Hackers 2018 [Computational Law and Blockchain Festival](https://legalhackers.org/clbfest2018) are encouraged to tackle the [Transactive Power Challenge](https://sanctityenergy.github.io/TransactivePowerChallenge/) with a high level design concept and rapid prototype project:**
 
 ## The Purpose
@@ -54,6 +56,9 @@ https://www.linkedin.com/in/garrett-macdonald-0612344a/
 ## Scott Burke - CEO of Blockcrushr Labs
 https://www.blockcrushr.com/team/scott-burke
 
+## J. Alex Perez - Strategic Account Director @ Current powered by GE 
+https://www.linkedin.com/in/alex-perez-4740a798/
+
 
 # Criteria and Judging
 
@@ -70,7 +75,6 @@ Final team projects will be reviewed and rated by a panel of invited judges.  Ev
 The team submitting the top ranked, highest rated project will receive the following:
 * Opportunity to work with judges and present the project in-person at MIT to interested students, faculty and researchers
 * $500 Cash Prize
-
 
 # Video Introduction
 
