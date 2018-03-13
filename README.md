@@ -5,9 +5,9 @@ The Transactive Power Challenge is presented by Sanctity Energy, and there will 
 
 ## The Purpose
 
-Modern society is growing increasingly dependent upon electricity, while our energy systems remain in a precarious state. With the emergence of renewable energy resources, smart-grids and microgrids we are at an inflection point in our energy history. The entire industry is poised for massive change. Let's put our heads together to think about how we can use blockcahin technology to streamline issues that currently exist in the energy space. 
+Modern society is growing increasingly dependent upon electricity while our energy systems remain in a precarious state. With the emergence of renewable energy resources, smart-grids and microgrids we stand at an inflection point in our energy history. The entire industry is poised for massive change. Let's put our heads together to think about how we can use blockchain technology to streamline issues that currently exist in the energy space. 
 
-The goal of this challenge is for teams to develop a conceptual design and rapid prototype that demonstrates how individuals/companies can use blockchain technology to facilitate:
+This challenge aims to develop a conceptual design and rapid prototype that demonstrates how individuals/companies can use blockchain technology to facilitate:
 
 1) renewable energy integration and distribution, or
 
@@ -19,10 +19,10 @@ The goal of this challenge is for teams to develop a conceptual design and rapid
 The conceptual design should include an outline or sketch of a realistic approach to deployment and stable operation of the energy system, including a:
 
 * Business model;
-* Legal framework (privacy, transaction); and
+* Legal framework (privacy, transaction, right to be forgotten); and
 * Technology architecture
 
-For example, teams submitting a blockchain-based energy management system (potentially based off of the ideas of distributed energy generation, transactive grids, etc.) should be able to champion the design, implementation and deployment, and demonstrate how the system can be hack-proof and feasible.
+For example, teams submitting a blockchain-based energy management system (potentially based on the ideas of distributed energy generation, transactive grids, etc.) must champion the design, implementation and deployment, and demonstrate how the system can be secure.
 
 ## Rapid Prototype 
 
@@ -30,15 +30,15 @@ The rapid prototype should demonstrate the transaction process in the energy sys
 
 1) facilitate legally valid integration and distribution in security regions, such as: 
 
-* Transfering energy between parties within a micro-grid;
-* Sending and receiving electricity across other operators; and 
-* Intregrating renewable energy resources to a decentralized grid;
+  * Transfering energy between parties within a micro-grid;
+  * Sending and receiving electricity across other operators; and 
+  * Integrating renewable energy resources to a decentralized grid; or
 
-or, 2) securing data on a smart grid, such as:
+2) securing data on a smart grid, such as:
 
-* Securitizing transactions among users and owners on a grid;
-* Providing hardware identity to IoT Devices on a smartgrid (for smart contract execution); and
-* Protecting data protection for smart meters, renewable energy generation, etc.;
+  * Securitizing transactions among users and owners on a grid;
+  * Providing hardware identity to IoT Devices on a smartgrid (for smart contract execution); and
+  * Protecting data for smart meters, renewable energy generation, etc.
 
 # How To Sign Up
 
@@ -70,15 +70,15 @@ Our incredible line-up of judges include:
 
 Teams are expected to:
 
-* Pitch their project idea at or before the start of the 2018 CL+B Fest through a 2 minute or shorter video clip uploaded to YouTube under Creative Commons license;
-* Present their final project in a 2 minute or shorter video clip uploaded to YouTube under Creative Commons license;
-* Provide their final project materials (including any slides, video and other media, documentation, working code, etc) through a GitHub repository under an open source license.
+* Pitch their project idea at or before the start of the 2018 CL+B Fest through a 2-minute or shorter video clip uploaded to YouTube under Creative Commons license;
+* Present their final project in a 2-minute or shorter video clip uploaded to YouTube under Creative Commons license;
+* Provide their final project materials (including any slides, video and other media, documentation, working code, etc.) through a GitHub repository under a permissive open source license.
 
-Final team projects will be reviewed and rated by a panel of invited judges.  Evaluation criteria will be added to this challenge page after an initial meeting of the judges and prior to the start of the CL+B Festival event.  The top team projects will be determined based on rank order resulting from an aggregate of the ratings by each judge.
+Final team projects will be reviewed and rated by a panel of invited judges.  Evaluation criteria will be added to this challenge page after an initial meeting of the judges and prior to the start of the CL+B Festival event. The top team projects will be determined based on rank order resulting from an aggregate of the ratings by each judge.
 
 # Prize
 
-The team submitting the top ranked, highest rated project will receive the following:
+The team submitting the top-ranked, highest-rated project will receive the following:
 * Opportunity to work with judges and present the project in-person at MIT to interested students, faculty and researchers
 * $500 Cash Prize
 
