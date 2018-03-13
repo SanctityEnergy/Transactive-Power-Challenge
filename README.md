@@ -10,6 +10,7 @@ Modern society is growing increasingly dependent upon electricity, while our ene
 The goal of this challenge is for teams to develop a conceptual design and rapid prototype that demonstrates how individuals/companies can use blockchain technology to facilitate:
 
 1) renewable energy integration and distribution, or
+
 2) data transactions on a smart grid.  
 
 **Teams participating in the Legal Hackers 2018 [Computational Law and Blockchain Festival](https://legalhackers.org/clbfest2018) are encouraged to tackle the [Transactive Power Challenge](https://sanctityenergy.github.io/TransactivePowerChallenge/) with a high level design concept and rapid prototype project:**
@@ -50,23 +51,19 @@ To register your team project for the Transactive Power Challenge, submit a [Git
 
 # Resources
 
-Checked on our [HackMD.io] (https://hackmd.io/xrMAw6KVSyuwrw-YOvYufQ) for an ever growing list of resources!
+Checke on our [HackMD.io](https://hackmd.io/xrMAw6KVSyuwrw-YOvYufQ) for an ever growing list of resources!
 
 # Judges
 
 Our incredible line-up of judges include:
 
-## Tony Rose - CEO of Airwaze.io
-https://www.linkedin.com/in/tony-rose/
+## [Tony Rose - CEO of Airwaze.io](https://www.linkedin.com/in/tony-rose/)
 
-## Garrett Macdonald - Blockchain Fellow @ Energy Web Foundation
-https://www.linkedin.com/in/garrett-macdonald-0612344a/
+## [Garrett Macdonald - Blockchain Fellow @ Energy Web Foundation](https://www.linkedin.com/in/garrett-macdonald-0612344a/)
 
-## Scott Burke - CEO of Blockcrushr Labs
-https://www.blockcrushr.com/team/scott-burke
+## [Scott Burke - CEO of Blockcrushr Labs](https://www.blockcrushr.com/team/scott-burke)
 
-## J. Alex Perez - Strategic Account Director @ Current powered by GE 
-https://www.linkedin.com/in/alex-perez-4740a798/
+## [J. Alex Perez - Strategic Account Director @ Current powered by GE ](https://www.linkedin.com/in/alex-perez-4740a798/)
 
 
 # Criteria and Judging
