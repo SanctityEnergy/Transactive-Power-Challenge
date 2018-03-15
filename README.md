@@ -40,14 +40,15 @@ The rapid prototype should demonstrate the transaction process in the energy sys
   * Providing hardware identity to IoT Devices on a smartgrid (for smart contract execution); and
   * Protecting data for smart meters, renewable energy generation, etc.
 
-# How To Sign Up
+# Team Participation
 
-To register your team project for the Transactive Power Challenge, submit a [GitHub Issue](https://github.com/SanctityEnergy/TransactivePowerChallenge/issues/new) with the following information: 
-* The name of your project and your team name;
-* The names of your team members including the GitHub username of at least one member;
-* The URL of the GitHub repository where your project will be developed and submitted;
-* The URL of the YouTube Channel where your team will submit video; and
-* The name and URL of the Festival Node your team is participating in
+**Register Your Team Project:** 
+
+* To register your team project for the Transactive Power Challenge, sign up on this form: [https://goo.gl/forms/uD8AfZyGHlqwtl6h1](https://goo.gl/forms/uD8AfZyGHlqwtl6h1).  
+
+**Submit Your Team Project:** 
+
+* When you have finished your project, please submit it BEFORE the 24 deadline defined by the [schedule at your local node](http://legalhackers.org/clbfest2018-host/).  Submit your final project by completing this form: [https://docs.google.com/forms/d/e/1FAIpQLSdUlxp9FI3jAWhUMVvQ7kDirdP-ghjyYzBA9ISA0RKd-9cvvQ/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdUlxp9FI3jAWhUMVvQ7kDirdP-ghjyYzBA9ISA0RKd-9cvvQ/viewform)
 
 # Resources
 
@@ -85,4 +86,9 @@ The team submitting the top-ranked, highest-rated project will receive the follo
 # Video Introduction
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vH_y_-adc2s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+# Terms & Conditions
+
+Participation in this challenge is subject the standard terms and conditions at: [https://mitmedialab.github.io/SLIC/TermsAndConditions.html](https://mitmedialab.github.io/SLIC/TermsAndConditions.html)
 
