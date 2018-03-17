@@ -1,7 +1,7 @@
 # Transactive Power Challenge
 CL+B Fest Challenge
 
-The Transactive Power Challenge is presented by Sanctity Energy, and there will be a **$500 cash prize** and opportunity to work with judges and **present the project in-person at MIT** to interested students, faculty and researchers for the winning team.
+The Transactive Power Challenge is presented by Sanctity Energy, and there will be a **$250 cash prize** and opportunity to work with judges and **present the project in-person at MIT** to interested students, faculty and researchers for the winning team.
 
 ## The Purpose
 
@@ -81,7 +81,7 @@ Final team projects will be reviewed and rated by a panel of invited judges.  Ev
 
 The team submitting the top-ranked, highest-rated project will receive the following:
 * Opportunity to work with judges and present the project in-person at MIT to interested students, faculty and researchers
-* $500 Cash Prize
+* $250 Cash Prize
 
 # Video Introduction
 
